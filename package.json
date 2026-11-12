@@ -1,0 +1,17 @@
+{
+  "name": "sunnycourts-club",
+  "version": "1.0.0",
+  "description": "Backend Development Fundamentals group assignment - court booking API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
